@@ -102,7 +102,7 @@ span{
     border-radius: 50px;
     position: absolute;
     top: 480px;
-    right: 365px;
+    left: 700px;
     box-sizing: border-box;
     font-size: 25px;
     font-weight: 200;
@@ -368,3 +368,4 @@ padding:30px 100px 0px 100px ;
     color: #63E6BE;
   }
     
+
